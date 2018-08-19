@@ -2,7 +2,7 @@
 
 ## GPU Passthrough
 
-I have followed great tutorial by @misairu\_g . It is available [here](https://gist.github.com/Misairu-G/616f7b2756c488148b7309addc940b28).
+I have followed great tutorial by @misairu_g . It is available [here](https://gist.github.com/Misairu-G/616f7b2756c488148b7309addc940b28).
 
 ##### Files
 
@@ -12,9 +12,9 @@ win10.iso - Windows Installation Image. You have to get one yourself, read more 
 
 WindowsVM.img - Windows VM hard drive. You have to create one yourself, read more in tutorial linked above.
 
-tap\_ifdown - Tearing down network after VM is closed (authored by @misairu\_g )
+tap\_ifdown - Tearing down network after VM is closed (authored by @misairu_g )
 
-tap\_ifup - Setting up network for VM when it starts  (authored by @misaiur\_g )
+tap\_ifup - Setting up network for VM when it starts  (authored by @misairu_g )
 
 ### How to use
 
