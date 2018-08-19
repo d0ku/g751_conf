@@ -1,2 +1,7 @@
-# g751_conf
-Config files, binaries etc. for my Asus G751JM
+## ASUS G751JM config for Linux
+
+TODO: write?
+
+### GPU Passthrough
+
+### Temperature control
