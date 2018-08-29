@@ -1,2 +1,2 @@
 #!/bin/sh
-vncviewer $(cat ip):5900
+vncviewer  $(cat ip):5900

@@ -65,6 +65,7 @@ start_tap() {
     start_dnsmasq
 
     add_iptable_rules
+    ip link set dev $TAP address 52:54:00:12:34:56
 }
 
 start_tap

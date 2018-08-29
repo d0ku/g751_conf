@@ -18,7 +18,10 @@ tap\_ifup - Setting up network for VM when it starts  (authored by [@misairu_g](
 
 ### How to use
 
+Project is currently not one of my focus objects.
+
 After you have finally set up everything to suit your PC you just have to run ./complete.sh (with sudo) and it will take care of everything.
+
 
 ## Temperature control
 
